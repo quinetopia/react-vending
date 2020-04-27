@@ -1,0 +1,16 @@
+.NavBar-strip {
+  font-weight: normal;
+  color: aqua;
+  background-color: blue;
+  display: inline-block;
+}
+
+a {
+  display: flex;
+
+
+}
+.NavBar-strip a.active {
+  font-weight: bold;
+  color: black;
+}
